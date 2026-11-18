@@ -1,0 +1,3 @@
+Binary search:
+display the result,
+display worst and best case
